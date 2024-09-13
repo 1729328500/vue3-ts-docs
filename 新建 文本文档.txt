@@ -1,0 +1,2 @@
+npm config set registry https://registry.npmmirror.com 阿里云镜像
+npm config set registry https://registry.npmjs.org 官方镜像
