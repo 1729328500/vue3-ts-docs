@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import Demo from './components/Monkeybother6.vue'
+import Demo from './components/Dd.vue'
 </script>
